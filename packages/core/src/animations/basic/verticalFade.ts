@@ -3,7 +3,7 @@
  * @description Combines vertical slide with opacity fade
  * @preset vertical-fade
  * @difficulty Easy
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

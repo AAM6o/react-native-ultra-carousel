@@ -3,7 +3,7 @@
  * @description Combines horizontal slide with opacity fade for an elegant transition
  * @preset slide-fade
  * @difficulty Easy
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

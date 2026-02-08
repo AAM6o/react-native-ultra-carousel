@@ -3,7 +3,7 @@
  * @description Active item at full scale, neighbors shrink — creates depth emphasis
  * @preset scale
  * @difficulty Easy
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "ultra-carousel-example",
+    "slug": "ultra-carousel-example",
+    "version": "1.0.0",
+    "scheme": "ultra-carousel-example",
+    "platforms": ["ios", "android"],
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

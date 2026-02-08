@@ -3,7 +3,7 @@
  * @description Multi-layer parallax effect with foreground and background moving at different speeds
  * @preset parallax
  * @difficulty Medium
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

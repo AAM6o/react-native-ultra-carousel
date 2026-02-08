@@ -63,8 +63,8 @@ export interface AnimationPresetMeta {
   description: string;
   /** Difficulty level */
   difficulty: 'Easy' | 'Medium' | 'Hard';
-  /** Phase when it was added */
-  phase: 1 | 2 | 3;
+  /** Category of the preset */
+  category: 'basic' | 'advanced' | 'creative';
   /** The animation function */
   animation: AnimationPresetFn;
   /** Default configuration values */

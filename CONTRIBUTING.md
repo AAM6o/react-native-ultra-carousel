@@ -48,7 +48,7 @@ examples/
 
 ### Creating a New Animation Preset
 
-1. Create a new file in `packages/core/src/animations/{phase}/`
+1. Create a new file in `packages/core/src/animations/{category}/` (basic, advanced, or creative)
 2. Follow the preset template:
 
 ```typescript
@@ -57,7 +57,7 @@ examples/
  * @description Description of the effect
  * @preset my-preset
  * @difficulty Easy|Medium|Hard
- * @phase 1|2|3
+ * @category basic|advanced|creative
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

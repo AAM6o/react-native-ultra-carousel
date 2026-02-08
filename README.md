@@ -70,7 +70,7 @@ export default function App() {
 
 ## Animation Presets
 
-### Basic (Phase 1)
+### Basic
 
 | Preset | Description |
 |--------|-------------|
@@ -85,7 +85,7 @@ export default function App() {
 | `overlap` | Items overlap with 30% coverage |
 | `peek` | Adjacent items peek from sides |
 
-### Advanced (Phase 2) - Coming Soon
+### Advanced
 
 | Preset | Description |
 |--------|-------------|
@@ -100,9 +100,25 @@ export default function App() {
 | `rotate` | Rotation-based transition |
 | `depth` | Depth-of-field effect |
 
-### Creative (Phase 3) - Coming Soon
+### Creative
 
-newspaper, origami, carousel-3d, wave, spiral, glitch, morph, shutter, domino, elastic, blur-slide, windmill, film-strip, helix, gravity
+| Preset | Description |
+|--------|-------------|
+| `newspaper` | Fly in with spin like headlines |
+| `origami` | Paper-fold origami effect |
+| `carousel-3d` | True 3D circular carousel |
+| `wave` | Sine wave motion |
+| `spiral` | Spiral outward with rotation |
+| `glitch` | Digital glitch jitter effect |
+| `morph` | Shape morphing transition |
+| `shutter` | Camera shutter open/close |
+| `domino` | Domino falling effect |
+| `elastic` | Elastic bounce stretch |
+| `blur-slide` | Slide with simulated blur |
+| `windmill` | Windmill pivot rotation |
+| `film-strip` | Film strip slide with jitter |
+| `helix` | DNA helix 3D spiral |
+| `gravity` | Gravity drop with bounce |
 
 ## API Reference
 

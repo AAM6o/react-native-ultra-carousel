@@ -3,7 +3,7 @@
  * @description Active item centered with adjacent items peeking from the sides
  * @preset peek
  * @difficulty Medium
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

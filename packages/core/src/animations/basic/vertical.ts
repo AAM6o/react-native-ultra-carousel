@@ -3,7 +3,7 @@
  * @description Vertical slide transition for vertical carousels
  * @preset vertical
  * @difficulty Easy
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

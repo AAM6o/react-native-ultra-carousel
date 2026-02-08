@@ -3,7 +3,7 @@
  * @description Crossfade transition between items — items stack and opacity changes
  * @preset fade
  * @difficulty Easy
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

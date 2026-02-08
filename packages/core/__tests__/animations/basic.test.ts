@@ -1,6 +1,6 @@
 /**
  * @file Basic animation presets unit tests
- * @description Tests for all 10 Phase 1 animation presets
+ * @description Tests for all 10 basic animation presets
  */
 
 import { slideAnimation, SLIDE_DEFAULTS } from '../../src/animations/basic/slide';

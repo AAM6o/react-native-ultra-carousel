@@ -3,7 +3,7 @@
  * @description Items overlap each other by 30%, creating a stacked card appearance
  * @preset overlap
  * @difficulty Medium
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

@@ -3,7 +3,7 @@
  * @description Combines scale and opacity for an elegant depth + fade effect
  * @preset scale-fade
  * @difficulty Easy
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';

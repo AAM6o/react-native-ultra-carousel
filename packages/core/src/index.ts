@@ -23,6 +23,7 @@ export { usePagination } from './hooks/usePagination';
 
 // === Animations ===
 export {
+  // Basic
   slideAnimation,
   fadeAnimation,
   slideFadeAnimation,
@@ -33,6 +34,34 @@ export {
   parallaxAnimation,
   overlapAnimation,
   peekAnimation,
+  // Advanced
+  stackAnimation,
+  tinderAnimation,
+  coverflowAnimation,
+  cubeAnimation,
+  flipAnimation,
+  wheelAnimation,
+  accordionAnimation,
+  zoomAnimation,
+  rotateAnimation,
+  depthAnimation,
+  // Creative
+  newspaperAnimation,
+  origamiAnimation,
+  carousel3dAnimation,
+  waveAnimation,
+  spiralAnimation,
+  glitchAnimation,
+  morphAnimation,
+  shutterAnimation,
+  dominoAnimation,
+  elasticAnimation,
+  blurSlideAnimation,
+  windmillAnimation,
+  filmStripAnimation,
+  helixAnimation,
+  gravityAnimation,
+  // Registry
   registerPreset,
   getPreset,
   getPresetMeta,

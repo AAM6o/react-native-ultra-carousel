@@ -3,7 +3,7 @@
  * @description Standard horizontal slide transition — the default carousel behavior
  * @preset slide
  * @difficulty Easy
- * @phase 1
+ * @category basic
  */
 
 import { interpolate, Extrapolation } from 'react-native-reanimated';
