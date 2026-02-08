@@ -41,3 +41,6 @@ claude_output/
 .vscode/
 *.swp
 *.swo
+
+# Demo video output
+packages/demo-video/out/
