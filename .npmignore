@@ -1,0 +1,16 @@
+__tests__/
+__fixtures__/
+__mocks__/
+*.test.ts
+*.test.tsx
+.eslintrc.js
+.prettierrc
+tsconfig.json
+turbo.json
+.changeset/
+.github/
+coverage/
+examples/
+scripts/
+packages/playground/
+packages/docs/

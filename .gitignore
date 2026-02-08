@@ -1,0 +1,43 @@
+node_modules/
+lib/
+dist/
+.turbo/
+*.tsbuildinfo
+.DS_Store
+*.log
+coverage/
+.expo/
+ios/
+android/
+*.tgz
+
+# Environment & secrets
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+*.pem
+*.key
+*.cert
+credentials.json
+serviceAccountKey.json
+firebase-debug.log
+
+# Claude Code / AI related
+.claude/
+CLAUDE_CODE_MASTER_PLAN.md
+claude_output/
+.anthropic/
+.cursor/
+
+# API keys & tokens
+*.secret
+.npmrc
+.yarnrc.yml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
